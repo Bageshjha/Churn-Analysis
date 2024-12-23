@@ -6,7 +6,8 @@ This project involves **Churn Analysis** using **SQL**, **Power BI**, and **Pyth
 
 ## Key Features
 - **Data Exploration and Analysis**:
-  - Insights derived using SQL for querying and Power BI for visualization.
+  - Insights derived using SQL for querying.
+  -  Power BI for visualization.
 - **Machine Learning Model**:
   - Built a **RandomForestClassifier** to predict churn.
   - Achieved **86% accuracy** in predictions.
