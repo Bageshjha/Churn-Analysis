@@ -15,10 +15,10 @@ This project involves **Churn Analysis** using **SQL**, **Power BI**, and **Pyth
 
 ## Visualizations
 ### Churn Analysis Summary
-![Churn Analysis Summary](Images\Churn-analysis Summary.png)
+![Churn Analysis Summary](Images/Churn-analysis%20Summary.png)
 
 ### Prediction Insights
-![Churn Analysis Prediction](Images\Churn-analysis Prediction.png)
+![Churn Analysis Prediction](Images/Churn-analysis%20Prediction.png)
 
 ---
 
